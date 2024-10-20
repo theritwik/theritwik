@@ -29,6 +29,7 @@ I'm a passionate Computer Science and Engineering (CSE) student at VIT Bhopal, e
 - Email: theritwiksingh@gmail.com
 - [Instagram: Ritwik Singh](https://www.instagram.com/imritwikk)(Instagram ID)
 - [LinkedIn: Ritwik Singh](https://www.linkedin.com/in/ritwik-singh-58b25a302/)(LinkedIn ID)
+- [X(twitter): Ritwik Singh](https://x.com/theritwiksingh)(X ID)
 
 😄 Pronouns:
 - He/Him
