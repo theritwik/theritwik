@@ -17,8 +17,8 @@ I'm a passionate Computer Science and Engineering (CSE) student at VIT Bhopal, e
 - Content creation around tech, AI, and social media marketing.
 
 🤔 I’m looking for help with:
-- Developing my YouTube channel and Instagram game content for CosmoGamingZone.
-- Growing my presence as a 'learn in public' DSA student.
+- Developing my YouTube channel and Instagram game content for Dynatrix Gaming.
+- Growing my presence as a 'learn in public' DSA student on X(twitter).
 
 💬 Ask me about:
 - Python programming, especially data scraping and solving problems.
