@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/theritwiksingh" target="blank"><img src="https://img.shields.io/twitter/follow/theritwiksingh?logo=twitter&style=for-the-badge" alt="theritwiksingh" /></a> </p>
 
-- 🔭 I’m currently working on **Improving my skills in problem-solving by contributing to open-source DSA projects and solving challenges on coding platforms like LeetCode and HackerRank.**
+- 🔭 I’m currently working on **Improving my skills in problem-solving by contributing to open-source DSA projects and solving challenges on coding platforms like LeetCode and GeeksforGeeks.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA) in C++ and Python while diving deep into the MERN stack to build dynamic and scalable web applications.**
 
