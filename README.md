@@ -35,7 +35,7 @@
 <a href="https://www.youtube.com/c/ritwik singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ritwik singh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/theritwiksingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="theritwiksingh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/theritwiksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theritwiksingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ritwik07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritwik07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imritwikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritwik07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/theritwiuhl9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="theritwiuhl9" height="30" width="40" /></a>
 </p>
 
