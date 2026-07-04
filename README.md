@@ -1,49 +1,252 @@
-<h1 align="center">Hi 👋, I'm Ritwik Singh</h1>
-<h3 align="center">A passionate developer from India, exploring the world of technology one step at a time.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theritwik&label=Profile%20views&color=0e75b6&style=flat" alt="theritwik" /> </p>
+# Hi, I'm Ritwik Singh 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theritwik" alt="theritwik" /></a> </p>
+### Software Engineer · AI/ML Builder · Full-Stack Developer
 
-<p align="left"> <a href="https://twitter.com/theritwiksingh" target="blank"><img src="https://img.shields.io/twitter/follow/theritwiksingh?logo=twitter&style=for-the-badge" alt="theritwiksingh" /></a> </p>
-
-- 🔭 I’m currently working on **Improving my skills in problem-solving by contributing to open-source projects and solving DSA problems on coding platforms like LeetCode and GeeksforGeeks.**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA) in C++ and Python while diving deep into the MERN stack to build dynamic and scalable web applications.**
-
-- 👯 I’m looking to collaborate on **Open-source projects related to web development or DSA.**
-
-- 🤝 I’m looking for help with **Advanced algorithm optimization and machine learning.**
-
-- 💬 Ask me about **Data Structures and Algorithms (DSA), Full-stack development.**
-
-- 📫 How to reach me **theritwiksingh@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/theritwiksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theritwiksingh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritwiksingh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritwiksingh07" height="30" width="40" /></a>
-<a href="https://fb.com/ritwiksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritwiksingh" height="30" width="40" /></a>
-<a href="https://instagram.com/imritwikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imritwikk" height="30" width="40" /></a>
-<a href="https://medium.com/@theritwiksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@theritwiksingh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ritwik singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ritwik singh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/theritwiksingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="theritwiksingh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/theritwiksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theritwiksingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imritwikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritwik07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/theritwiuhl9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="theritwiuhl9" height="30" width="40" /></a>
+<p>
+  I build practical AI-powered products, secure web applications, and scalable full-stack systems.
+  <br />
+  B.Tech Computer Science student at VIT Bhopal University · Graduating in 2027
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/ritwiksingh07/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/theritwik?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="mailto:theritwiksingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theritwik&show_icons=true&locale=en&layout=compact" alt="theritwik" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theritwik&show_icons=true&locale=en" alt="theritwik" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theritwik&" alt="theritwik" /></p>
+## About Me
+
+- 🎓 B.Tech in Computer Science and Engineering at **VIT Bhopal University**
+- 💻 Focused on **Software Engineering, AI/ML, full-stack development, and problem solving**
+- 🧠 Building products with **Next.js, TypeScript, Python, FastAPI, Node.js, PostgreSQL, and machine learning**
+- 🏆 Hackathon builder with experience developing solutions in **fraud prevention, privacy, cybersecurity, agriculture, legal technology, and Web3**
+- 🌱 Strengthening **DSA in C++**, backend engineering, system design, and production deployment
+- 🤝 Open to **SWE internships, AI/ML opportunities, open-source collaboration, and impactful engineering projects**
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [ScamShield AI](https://github.com/theritwik/scamshield-ai)
+
+AI-powered defence system designed to detect psychological coercion sequences in digital-arrest scams and interrupt fraud before payment.
+
+**Highlights**
+- Sequence-aware scam-risk detection
+- Real-time risk escalation
+- Explainable behavioural signals
+- Built for an AI hackathon use case
+
+**Tech:** Python · FastAPI · Next.js · AI/ML
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [AutoApply AI](https://github.com/theritwik/autoapply-ai)
+
+AI-powered job application platform that helps candidates analyse job descriptions and create tailored application material.
+
+**Highlights**
+- Resume–job match analysis
+- ATS keyword extraction
+- Cover letters and outreach messages
+- Application tracking and saved packs
+
+**Tech:** Next.js · TypeScript · AI · Full Stack
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [TrustLens AI](https://github.com/theritwik/TrustLens-AI)
+
+Machine-learning system for detecting deceptive or fake online reviews and improving trust in digital marketplaces.
+
+**Highlights**
+- NLP-based text classification
+- Review authenticity analysis
+- Practical trust and safety use case
+- Interactive prediction workflow
+
+**Tech:** Python · NLP · Machine Learning
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [PersonalizeX](https://github.com/theritwik/personalizex)
+
+Personalized product recommendation system that generates relevant suggestions from user preferences and behavioural patterns.
+
+**Highlights**
+- Recommendation engine
+- Data-driven personalization
+- End-to-end ML workflow
+- User-focused recommendation interface
+
+**Tech:** Python · Machine Learning · Data Science
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [MyPriv360](https://github.com/theritwik/mypriv360)
+
+Privacy-first personal data platform for managing consent, purpose-based access, and user-controlled data sharing.
+
+**Highlights**
+- Consent management dashboard
+- Purpose-bound access controls
+- Secure authentication
+- Privacy-focused product design
+
+**Tech:** Next.js · TypeScript · Prisma · PostgreSQL
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 [AgriSmartSuite](https://github.com/theritwik/AgriSmartSuite)
+
+Smart agriculture platform offering intelligent crop recommendations and data-driven yield insights for farmers.
+
+**Highlights**
+- Crop recommendation
+- Yield prediction
+- Agricultural data visualization
+- ML-backed decision support
+
+**Tech:** Python · Flask · React · Machine Learning
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/theritwik?tab=repositories"><strong>Explore all repositories →</strong></a>
+</p>
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,sql" alt="Languages" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" alt="Frontend technologies" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mysql,mongodb,redis" alt="Backend and databases" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,aws,vercel" alt="Tools and platforms" />
+</p>
+
+### Core Knowledge
+
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `DBMS` · `Operating Systems` · `Computer Networks` · `REST APIs` · `Machine Learning` · `NLP` · `System Design Fundamentals`
+
+---
+
+## Achievements & Experience
+
+- 🏅 **Top 20** in the aOS Global Buildathon 2025
+- 🚀 Built projects across multiple national and international hackathons
+- 🌍 Open-source contributor through **GirlScript Summer of Code**
+- 💼 Completed software development internships with **Prodigy InfoTech** and **CodSoft**
+- 🦈 Earned GitHub achievements including **Pull Shark** and **Quickdraw**
+- 🧩 Regularly practise DSA and interview-oriented problem solving
+
+---
+
+## Current Focus
+
+```text
+Building production-quality AI and full-stack applications
+Solving DSA problems in C++
+Learning backend architecture and system design
+Preparing for Software Engineering internships and 2027 placements
+Contributing to meaningful open-source projects
+```
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=theritwik&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ritwik's GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theritwik&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=theritwik&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=theritwik&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theritwik&hide_border=true&area=true" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## Let's Connect
+
+I enjoy collaborating on projects involving **AI, full-stack engineering, cybersecurity, developer tools, and socially impactful technology**.
+
+<p>
+  <a href="https://www.linkedin.com/in/ritwiksingh07/">LinkedIn</a>
+  ·
+  <a href="mailto:theritwiksingh@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/theritwik?tab=repositories">Repositories</a>
+</p>
+
+<div align="center">
+
+### “Build useful things. Learn deeply. Improve consistently.”
+
+<img src="https://komarev.com/ghpvc/?username=theritwik&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
