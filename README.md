@@ -183,7 +183,6 @@ Smart agriculture platform offering intelligent crop recommendations and data-dr
 - 🏅 **Top 20** in the aOS Global Buildathon 2025
 - 🚀 Built projects across multiple national and international hackathons
 - 🌍 Open-source contributor through **GirlScript Summer of Code**
-- 💼 Completed software development internships with **Prodigy InfoTech** and **CodSoft**
 - 🦈 Earned GitHub achievements including **Pull Shark** and **Quickdraw**
 - 🧩 Regularly practise DSA and interview-oriented problem solving
 
